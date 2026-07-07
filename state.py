@@ -1,7 +1,3 @@
-"""
-Session state — initialization, streak tracking, export/import, study statistics.
-"""
-
 import json
 import uuid
 from datetime import datetime, timedelta

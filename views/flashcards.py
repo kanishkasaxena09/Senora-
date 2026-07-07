@@ -1,7 +1,3 @@
-"""
-Flashcards — create, AI-generate, import, and study with 3D flip cards.
-"""
-
 import json
 import random
 from datetime import datetime

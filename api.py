@@ -1,7 +1,3 @@
-"""
-Groq API client — model registry, LLM calls, vision calls, and safe JSON parsing.
-"""
-
 import os
 import json
 from typing import List, Dict, Optional

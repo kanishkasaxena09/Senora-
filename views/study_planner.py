@@ -1,7 +1,3 @@
-"""
-Study Planner — AI-powered personalized study schedule generator.
-"""
-
 from datetime import datetime
 
 import streamlit as st

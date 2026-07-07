@@ -1,7 +1,3 @@
-"""
-Essay Grader — AI-powered essay feedback and scoring.
-"""
-
 from datetime import datetime
 
 import streamlit as st

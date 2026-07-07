@@ -1,7 +1,3 @@
-"""
-Dashboard — overview stats, quick actions, recent activity, and study progress.
-"""
-
 import random
 from datetime import datetime
 

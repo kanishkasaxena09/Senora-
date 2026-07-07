@@ -1,7 +1,3 @@
-"""
-Notes — create, search, enhance, and convert notes to flashcards.
-"""
-
 from datetime import datetime
 
 import streamlit as st

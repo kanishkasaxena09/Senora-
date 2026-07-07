@@ -1,9 +1,3 @@
-"""
-SENORA — Global CSS injection.
-
-Call ``inject_css()`` once at the top of app.py.
-"""
-
 import streamlit as st
 
 _CSS = """

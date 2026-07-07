@@ -1,11 +1,3 @@
-"""
-Focus Timer — Pomodoro technique with visual SVG ring timer.
-
-Uses a short 1-second ``time.sleep`` + ``st.rerun()`` cycle while running.
-This is the standard Streamlit approach for a live timer without extra
-dependencies.  The sleep is kept minimal to reduce blocking.
-"""
-
 import time
 from datetime import datetime, timedelta
 

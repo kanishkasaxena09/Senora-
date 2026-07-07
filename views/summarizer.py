@@ -1,7 +1,3 @@
-"""
-Summarizer — paste text and get AI summaries in various formats.
-"""
-
 from datetime import datetime
 
 import streamlit as st

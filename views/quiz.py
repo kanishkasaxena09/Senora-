@@ -1,7 +1,3 @@
-"""
-Quiz — AI-generated multiple-choice quizzes with scoring.
-"""
-
 import streamlit as st
 
 from api import call_groq, parse_json_response

@@ -1,7 +1,3 @@
-"""
-Reusable UI components for SENORA.
-"""
-
 import html as html_lib
 import math
 

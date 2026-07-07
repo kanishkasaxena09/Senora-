@@ -1,7 +1,3 @@
-"""
-Collab Room — simulated study group with AI-powered discussion.
-"""
-
 import html as html_lib
 from datetime import datetime
 

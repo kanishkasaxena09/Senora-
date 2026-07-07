@@ -1,7 +1,3 @@
-"""
-AI Tutor — chat interface with quick prompts.
-"""
-
 import streamlit as st
 
 from api import call_groq

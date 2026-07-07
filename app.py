@@ -1,9 +1,3 @@
-"""
-SENORA — Your intelligent companion for smarter learning.
-
-Main entry point: page config, sidebar navigation, and page routing.
-"""
-
 import streamlit as st
 
 from styles import inject_css

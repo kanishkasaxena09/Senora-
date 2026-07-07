@@ -1,7 +1,3 @@
-"""
-Citation Generator — generate properly formatted academic citations.
-"""
-
 import streamlit as st
 
 from api import call_groq

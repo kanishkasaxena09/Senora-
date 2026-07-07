@@ -1,7 +1,3 @@
-"""
-Mind Map — AI-generated hierarchical concept maps.
-"""
-
 import json
 
 import streamlit as st
